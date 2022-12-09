@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://roadmap.stbaldricks.org/sitemap.xml
